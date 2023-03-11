@@ -1,0 +1,19 @@
+body {
+   background: #f5f5eb;
+}
+
+.conatiner {
+   margin: 0 auto;
+   width: 80vw;
+   height: 90vh;
+}
+
+.bayan {
+   margin-top: 10vh;
+   padding: 0 5vh;
+}
+
+.bayan__title {
+   font-size: 5vh;
+   font-weight: bold;
+}
